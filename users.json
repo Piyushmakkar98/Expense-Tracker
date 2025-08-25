@@ -1,0 +1,107 @@
+[
+  {
+    "username": "Piyush Makkar",
+    "email": "piyushmakkar98@gmail.com",
+    "password": "Piyush@123",
+    "expenses": [
+      {
+        "id": 1,
+        "productName": "Coffee",
+        "category": "Food",
+        "date": "2005-03-06",
+        "amount": 120
+      },
+      {
+        "id": 2,
+        "productName": "Patty",
+        "category": "Food",
+        "date": "2005-03-06",
+        "amount": 25
+      },
+      {
+        "id": 3,
+        "productName": "chai",
+        "category": "Food",
+        "date": "2005-05-01",
+        "amount": 599
+      },
+      {
+        "id": 4,
+        "productName": "Tej",
+        "category": "one",
+        "date": "2005-05-01",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "username": "Testing",
+    "email": "test@gmail.com",
+    "password": "Piyush@123",
+    "expenses": [
+      {
+        "id": 1,
+        "productName": "potty",
+        "category": "Entertainment",
+        "date": "2005-05-01",
+        "amount": 599
+      }
+    ]
+  },
+  {
+    "username": "aaina Kaushik",
+    "email": "aaina@gmail.com",
+    "password": "aaina123",
+    "expenses": [
+      {
+        "id": 1,
+        "productName": "Chai",
+        "category": "Food",
+        "date": "2025-03-06",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "username": "Tejinder",
+    "email": "tejinder@gmail.com",
+    "password": "password",
+    "expenses": [
+      {
+        "id": 2,
+        "productName": "Cold Coffee",
+        "category": "Food",
+        "date": "2025-04-12",
+        "amount": 150.02
+      },
+      {
+        "id": 3,
+        "productName": "maggi",
+        "category": "Food",
+        "date": "2025-04-08",
+        "amount": 50
+      },
+      {
+        "id": 4,
+        "productName": "dress",
+        "category": "clothing",
+        "date": "2025-04-02",
+        "amount": 1500
+      },
+      {
+        "id": 5,
+        "productName": "stapler",
+        "category": "stationary",
+        "date": "2025-04-03",
+        "amount": 90
+      },
+      {
+        "id": 6,
+        "productName": "dosa",
+        "category": "food",
+        "date": "2025-04-13",
+        "amount": 140.02
+      }
+    ]
+  }
+]
